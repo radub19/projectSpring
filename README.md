@@ -1,2 +1,0 @@
-# projectSpring
-SpringStudentManagementSystem
